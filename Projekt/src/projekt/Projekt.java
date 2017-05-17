@@ -10,7 +10,7 @@ package projekt;
  * @author woernerma
  */
 public class Projekt {
-//Endlich gehts
+//Endlich gehts Test
     /**
      * @param args the command line arguments
      */
