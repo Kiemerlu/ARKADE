@@ -6,7 +6,7 @@ import ea.*;
 public class Spiel extends Game {
 
     Spiel(){
-        super(300,300);
+        super(500,500);
     }
 
     public void tasteReagieren(int i){
